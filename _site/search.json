@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/01-first-post.html",
+    "href": "posts/01-first-post.html",
+    "title": "My First Post",
+    "section": "",
+    "text": "Header\nA wonderful tale about a great blog post."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "My First Post\n\n\n\n\n\n\n\nblog\n\n\nquarto\n\n\n\n\nAn interesting story\n\n\n\n\n\n\nJan 10, 2023\n\n\nJohn Doe\n\n\n\n\n\n\nNo matching items"
   }
 ]

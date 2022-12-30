@@ -1,0 +1,11 @@
+---
+title: "My First Post"
+author: "John Doe"
+date: "2023-01-10"
+categories: [blog, quarto]
+description: 'An interesting story'
+---
+
+# Header
+
+A wonderful tale about a great blog post.
